@@ -6,6 +6,7 @@ public class inicial {
 		// TODO Auto-generated method stub
 		System.out.println("Versión1_2");
 		System.out.println("Versión1_2_1");
+		System.out.println("Versión1_2_2");
 
 	}
 
